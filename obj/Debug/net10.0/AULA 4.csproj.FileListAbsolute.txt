@@ -1,0 +1,14 @@
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\bin\Debug\net10.0\AULA 4.exe
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\bin\Debug\net10.0\AULA 4.deps.json
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\bin\Debug\net10.0\AULA 4.runtimeconfig.json
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\bin\Debug\net10.0\AULA 4.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\bin\Debug\net10.0\AULA 4.pdb
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.GeneratedMSBuildEditorConfig.editorconfig
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.AssemblyInfoInputs.cache
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.AssemblyInfo.cs
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.csproj.CoreCompileInputs.cache
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\refint\AULA 4.dll
+d:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.pdb
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\AULA 4.genruntimeconfig.cache
+D:\Electronic Arts\DESENVOLVIMENTO\C#\CURSO DO KAIO\AULA 4\obj\Debug\net10.0\ref\AULA 4.dll
