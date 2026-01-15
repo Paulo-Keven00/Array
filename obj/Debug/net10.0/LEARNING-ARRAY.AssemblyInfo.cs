@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LEARNING-ARRAY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f72fd811e80bd476d5872cc55ea6a283ff927b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0966cb2e609435271684e71c997dea5a90119e34")]
 [assembly: System.Reflection.AssemblyProductAttribute("LEARNING-ARRAY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LEARNING-ARRAY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
